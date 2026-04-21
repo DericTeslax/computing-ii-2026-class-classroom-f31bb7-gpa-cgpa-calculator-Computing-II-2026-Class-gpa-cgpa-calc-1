@@ -6,7 +6,7 @@ Registration Number: 25/U/BIE/01399/PE
 #include <stdio.h>
 
 int main(void) {
-        /* Declare variables here */
+            /* Declare variables here */
     int scores[16];
     int credits_sem1[8] = {4, 3, 3, 3, 3, 3, 2, 3};
     int credits_sem2[8] = {4, 3, 3, 3, 3, 3, 3, 3};
